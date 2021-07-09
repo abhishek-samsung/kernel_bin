@@ -1,0 +1,3 @@
+[submodule "common_source"]
+	path = common_source
+	url = https://github.com/abhishek-samsung/common_source.git
